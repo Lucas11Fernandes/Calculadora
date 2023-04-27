@@ -1,4 +1,4 @@
-// Variável global que armazena os valores a serem calculados
+// Variável global que armazena os valores a serem calculados.
 var vdisplay = [];
 
 // Variável global que armazena o objeto 'document' do navegador
